@@ -7,8 +7,8 @@
 - Preferred Programming Language: Java
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/mradulkasana45/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/mradul_1923en101)
+- LeetCode: [Mradul_Kasana](https://leetcode.com/mradulkasana45/)
+- HackerRank: [Mradul_Kasana](https://www.hackerrank.com/mradul_1923en101)
 
 ## Placement Module
 1. [DS I](https://github.com/himanshukasana45/Pre-Placement-Module-2023/tree/main/DS%20I)
